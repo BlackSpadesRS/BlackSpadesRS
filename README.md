@@ -1,9 +1,9 @@
-Welcome to my profile🦊💗
--  👋 Hi, I’m @BlackSpadesRS
+Welcome to my profile🦊🍒💗
+-  👋 Hi, I’m @BlackSpadesRS!
 
-- I’m studying at Alura
-- I’mdeveloping in the JavaScript language
-- I use this space to organize and share my incredible projects developed
+- I’m studying at Alura;
+- I’mdeveloping in the JavaScript language;
+- I use this space to organize and share my incredible projects developed.
 
 You can contact me📧
 - raquelysouza.1809@gmail.com
